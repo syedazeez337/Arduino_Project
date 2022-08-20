@@ -1,6 +1,6 @@
 /***********************************************************
 File name: seven_segment.ino
-Description:Segment display Numbers 0 to 9 and some Alphabets, each digital display 
+Description:Segment display Numbers 0 to 9 and A-Z Alphabets, each digital display 
             1 second.After the cycle show
 ***********************************************************/
 
